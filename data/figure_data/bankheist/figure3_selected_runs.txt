@@ -1,0 +1,9 @@
+DQN runs:
+/root/rl_hw3/data/hw3_dqn_dqn_ALE/BankHeist-v5_d0.99_tu2000_lr0.0001_clip10.0_19-04-2026_04-57-38
+/root/rl_hw3/data/hw3_dqn_dqn_ALE/BankHeist-v5_d0.99_tu2000_lr0.0001_clip10.0_19-04-2026_06-28-38
+/root/rl_hw3/data/hw3_dqn_dqn_ALE/BankHeist-v5_d0.99_tu2000_lr0.0001_clip10.0_19-04-2026_06-33-48
+
+DDQN runs:
+/root/rl_hw3/data/hw3_dqn_dqn_ALE/BankHeist-v5_d0.99_tu2000_lr0.0001_doubleq_clip10.0_19-04-2026_07-03-09
+/root/rl_hw3/data/hw3_dqn_dqn_ALE/BankHeist-v5_d0.99_tu2000_lr0.0001_doubleq_clip10.0_19-04-2026_08-43-40
+/root/rl_hw3/data/hw3_dqn_dqn_ALE/BankHeist-v5_d0.99_tu2000_lr0.0001_doubleq_clip10.0_19-04-2026_08-51-48
